@@ -33,9 +33,9 @@ See `Screenshots/` folder for detailed visuals.
 📁 Folder Structure
 
 Data-Cleaning-Project/
-├── SQL Queries/
-├── Screenshots/
-├── Sample Data/
+├── SQL Queries
+├── Screenshots
+├── Sample Data
 └── README.md
 
 
