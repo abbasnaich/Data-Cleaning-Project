@@ -22,8 +22,8 @@ Deleted data that was not useful for analysis
 `CTEs`
 `Joins`
 `Window Functions`
-`TRIM`, `UPDATE`, `DELETE`
-Subqueries
+`TRIM`, `UPDATE`, `DELETE`,
+`Subqueries`
 
 🖼️ Project Visuals
 
