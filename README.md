@@ -30,15 +30,6 @@ Subqueries
 ✅ Before & After Cleaning Samples
 See `Screenshots/` folder for detailed visuals.
 
-📁 Folder Structure
-
-Data-Cleaning-Project/
-├── SQL Queries
-├── Screenshots
-├── Sample Data
-└── README.md
-
-
 💡 Learning Outcomes
 
 Learned practical SQL techniques by cleaning real-world data
